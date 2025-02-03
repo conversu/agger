@@ -1,11 +1,11 @@
 # Configurando Coberturas de Compreensivos Condomínio
-**Neste artigo vamos demonstrar como Configurar Coberturas de COMPREENSIVOS RESIDENCIAL no Aggilizador.**
+**Neste artigo vamos demonstrar como Configurar Coberturas de COMPREENSIVOS CONDOMINIO no Aggilizador.**
 
 Olá Corretor(a),
 
 Tudo bem?
 
-Com o passo a passo abaixo você poderá configurar **Coberturas RESIDENCIAIS**, como definir cobertura padrão.
+Com o passo a passo abaixo você poderá configurar **Coberturas CODOMINIO**, como definir cobertura padrão.
 
 ### 1) Acesse a opção COBERTURAS:
 
@@ -13,7 +13,7 @@ Ao acessar o botão com sua FOTO de PERFIL no canto superior direito, clique em 
 
 ![image](https://github.com/user-attachments/assets/a18210ea-2888-4280-be8c-714b25baf7af)
 
-### 2) Acesse a seção RESIDENCIAL
+### 2) Acesse a seção CONDOMINIO
 
 Na aba de **COMPREENSIVOS**, acesse a seção **CONDOMÍNIO**.
 
