@@ -1,11 +1,11 @@
-# Validando credenciais de Seguradoras
-**Neste artigo vamos demonstrar como validar credenciais de seguradoras no Aggilizador.**
+# Individualizando Seguradoras
+**Neste artigo vamos demonstrar como individualizar seguradoras no Aggilizador.**
 
 Olá Corretor(a),
 
 Tudo bem?
 
-Com o passo a passo abaixo você poderá validar credenciais na página de **Seguradoras**:
+Com o passo a passo abaixo você poderá individualizar**Seguradoras**, isto é, as credenciais utilizadas nesta forma de acesso não individuais e de uso exclusivo seu:
 
 ### 1) Acesse a opção SEGURADORAS:
 
@@ -21,9 +21,9 @@ Na listagem de **Seguradoras**, identifique a que consta com "Credenciais invál
 
 ### 3) Individualizando SEGURADORA
 
-Após acessar a seguradora que selecionou anteriormente, preencha as credenciais da Seguradora corretamente e clique em **"VALIDAR ACESSO"**
+Após acessar a seguradora que selecionou anteriormente, clique em **"Individualizar"**
 
-![image](https://github.com/user-attachments/assets/a0623616-6384-411a-84f0-9604cee39b74)
+![image](https://github.com/user-attachments/assets/d9db92c1-ad36-442d-abd9-8a1f10493776)
 
 ### 4) Verificando acesso válido.
 
@@ -39,6 +39,6 @@ Preencha o formulário de dados complementares e clique em salvar.
 
 ### 6) Credenciais validadas.
 
-Após salvar, note que as credenciais agora estão ativas na seguradora selecionada.
+Após salvar, note que as credenciais agora estão ativas e individualizadas na seguradora selecionada.
 
 ![image](https://github.com/user-attachments/assets/37b4e4ae-3ad2-47fe-a1c8-3f658e14f8dd)
