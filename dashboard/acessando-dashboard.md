@@ -11,7 +11,7 @@ Com o passo a passo abaixo você poderá acessar o DASHBOARD no Aggilizador e as
 
 Clique no botão **DASHBOARD** disponível no menu superior do Aggilizador.
 
-[image]
+![image](https://github.com/user-attachments/assets/222d512a-92ec-44cb-835d-3ff8b01025e1)
 
 ### 2) Analisando gráficos:
 
@@ -25,7 +25,6 @@ Ao acessar o DASHBOARD, você irá encontrar:
 - GRÁFICO: Negócios Fechados (Este gráfico exibe informações de negócios fechados, filtrados por: Todos, Prêmio, Comissão e Quantidade).
 - GRÁFICO: Negócios Concluídos (Este gráfico exibe informações de negócios concluídos, filtrados por: Todos, Prêmio, Comissão e Quantidade).
 
-[image]
-[image]
+![image](https://github.com/user-attachments/assets/f8fd9244-ec44-44d6-8480-fc07b8a80b15)
 
 Pronto! Agora você já pode fazer suas analises mais profundas no Aggilizador!
