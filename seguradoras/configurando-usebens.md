@@ -19,13 +19,13 @@ Ao acessar o botão com sua FOTO de PERFIL no canto superior direito, clique em 
 
 Na listagem de **Seguradoras**, clique na seguradora **USEBENS** para validar as credenciais
 
-![image]
+![image](https://github.com/user-attachments/assets/c1cee470-b992-4e35-841b-21dec72eb516)
 
 ### 3) Validando ACESSO.
 
 Após acessar a USEBENS, preencha as credenciais da Seguradora corretamente e clique em **"VALIDAR ACESSO"**
 
-![image]
+![image](https://github.com/user-attachments/assets/c5fe51a9-ebd3-468d-b876-1e9fdce2201f)
 
 ### 4) Verificando acesso válido.
 
@@ -35,6 +35,6 @@ Após clicar em **"VALIDAR ACESSO"**, caso as credenciais estejam corretas, uma 
 
 Preencha o formulário de valores padrão antes e clique em **SALVAR**.
 
-![image]
+![image](https://github.com/user-attachments/assets/2e021f35-c8cb-4f29-a8ce-4c94d855da62)
 
 Pronto!
