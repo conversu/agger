@@ -19,13 +19,13 @@ Ao acessar o botão com sua FOTO de PERFIL no canto superior direito, clique em 
 
 Na listagem de **Seguradoras**, clique na seguradora **TOKIO** para validar as credenciais
 
-![image]
+![image](https://github.com/user-attachments/assets/4ca3aa5f-24a9-4e54-8c92-728f578400ea)
 
 ### 3) Validando ACESSO.
 
 Após acessar a TOKIO, preencha as credenciais da Seguradora corretamente e clique em **"VALIDAR ACESSO"**
 
-![image]
+![image](https://github.com/user-attachments/assets/84c062d8-abe8-4e95-b60d-169d8174da67)
 
 ### 4) Verificando acesso válido.
 
@@ -35,6 +35,6 @@ Após clicar em **"VALIDAR ACESSO"**, caso as credenciais estejam corretas, uma 
 
 Preencha o formulário de valores padrão antes e clique em **SALVAR**.
 
-![image]
+![image](https://github.com/user-attachments/assets/9d80578f-5d99-4bf1-add9-785982734275)
 
 Pronto!
