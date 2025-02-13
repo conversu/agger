@@ -19,13 +19,13 @@ Ao acessar o botão com sua FOTO de PERFIL no canto superior direito, clique em 
 
 Na listagem de **Seguradoras**, clique na seguradora **SUIÇA** para validar as credenciais
 
-![image]
+![image](https://github.com/user-attachments/assets/32247a43-8e53-470b-91d3-4479342a94f0)
 
 ### 3) Validando ACESSO.
 
 Após acessar a SUIÇA, preencha as credenciais da Seguradora corretamente e clique em **"VALIDAR ACESSO"**
 
-![image]
+![image](https://github.com/user-attachments/assets/5fa8c7cd-95a7-4c84-99b6-a841d2242383)
 
 ### 4) Verificando acesso válido.
 
@@ -35,6 +35,6 @@ Após clicar em **"VALIDAR ACESSO"**, caso as credenciais estejam corretas, uma 
 
 Preencha o formulário de valores padrão antes e clique em **SALVAR**.
 
-![image]
+![image](https://github.com/user-attachments/assets/06c7cf8f-0fca-4f84-a92c-c6770a842458)
 
 Pronto!
