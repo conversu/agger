@@ -19,13 +19,13 @@ Ao acessar o botão com sua FOTO de PERFIL no canto superior direito, clique em 
 
 Na listagem de **Seguradoras**, clique na seguradora **JUSTOS** para validar as credenciais
 
-![image]
+![image](https://github.com/user-attachments/assets/1f371791-2773-4548-837b-13de04ae38fe)
 
 ### 3) Validando ACESSO.
 
 Após acessar a JUSTOS, preencha as credenciais da Seguradora corretamente e clique em **"VALIDAR ACESSO"**
 
-![image]
+![image](https://github.com/user-attachments/assets/56a98193-675b-4cf2-ac10-d5341c6ed172)
 
 ### 4) Verificando acesso válido.
 
@@ -35,6 +35,6 @@ Após clicar em **"VALIDAR ACESSO"**, caso as credenciais estejam corretas, uma 
 
 Preencha o formulário de valores padrão antes e clique em **SALVAR**.
 
-![image]
+![image](https://github.com/user-attachments/assets/f3a3316b-cd50-47af-89bb-ab8000cb60c5)
 
 Pronto!
