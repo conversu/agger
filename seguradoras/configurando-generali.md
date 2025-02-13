@@ -19,13 +19,13 @@ Ao acessar o botão com sua FOTO de PERFIL no canto superior direito, clique em 
 
 Na listagem de **Seguradoras**, clique na seguradora **GENERALI** para validar as credenciais
 
-![image]
+![image](https://github.com/user-attachments/assets/96474c3b-7a70-4224-b5c7-4a46e003d08f)
 
 ### 3) Validando ACESSO.
 
 Após acessar a GENERALI, preencha as credenciais da Seguradora corretamente e clique em **"VALIDAR ACESSO"**
 
-![image]
+![image](https://github.com/user-attachments/assets/f2dd245b-4140-4bb4-ac58-10c2f336c847)
 
 ### 4) Verificando acesso válido.
 
@@ -35,6 +35,6 @@ Após clicar em **"VALIDAR ACESSO"**, caso as credenciais estejam corretas, uma 
 
 Preencha o formulário de valores padrão antes e clique em **SALVAR**.
 
-![image]
+![image](https://github.com/user-attachments/assets/e0453714-945e-492d-b812-5a951ff1d850)
 
 Pronto!
