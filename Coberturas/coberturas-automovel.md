@@ -1,4 +1,5 @@
 # Configurando Coberturas de Automóvel
+
 **Neste artigo vamos demonstrar como Configurar Coberturas de AUTOMÓVEL no Aggilizador.**
 
 Olá Corretor(a),
