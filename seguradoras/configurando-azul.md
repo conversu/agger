@@ -19,13 +19,13 @@ Ao acessar o botão com sua FOTO de PERFIL no canto superior direito, clique em 
 
 Na listagem de **Seguradoras**, clique na seguradora **AZUL** para validar as credenciais
 
-![image]
+![image](https://github.com/user-attachments/assets/f55ff616-4d62-4e33-ae36-e942c1542f6e)
 
 ### 3) Validando ACESSO.
 
 Após acessar a AZUL, preencha as credenciais da Seguradora corretamente e clique em **"VALIDAR ACESSO"**
 
-![image]
+![image](https://github.com/user-attachments/assets/755ce91a-8ab4-409d-be26-ee4e960bd6d3)
 
 ### 4) Verificando acesso válido.
 
@@ -35,6 +35,6 @@ Após clicar em **"VALIDAR ACESSO"**, caso as credenciais estejam corretas, uma 
 
 Preencha o formulário de valores padrão antes e clique em **SALVAR**.
 
-![image]
+![image](https://github.com/user-attachments/assets/142e3b44-5efe-483e-9837-1fce5694cd9e)
 
 Pronto!
