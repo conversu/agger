@@ -19,13 +19,13 @@ Ao acessar o botão com sua FOTO de PERFIL no canto superior direito, clique em 
 
 Na listagem de **Seguradoras**, clique na seguradora **INDIANA** para validar as credenciais
 
-![image]
+![image](https://github.com/user-attachments/assets/e26228d4-e7a5-427e-af6a-a671c1506c7b)
 
 ### 3) Validando ACESSO.
 
 Após acessar a INDIANA, preencha as credenciais da Seguradora corretamente e clique em **"VALIDAR ACESSO"**
 
-![image]
+![image](https://github.com/user-attachments/assets/6cb370d2-66a9-4b13-ae5a-88f17fc4b248)
 
 ### 4) Verificando acesso válido.
 
@@ -35,6 +35,6 @@ Após clicar em **"VALIDAR ACESSO"**, caso as credenciais estejam corretas, uma 
 
 Preencha o formulário de valores padrão antes e clique em **SALVAR**.
 
-![image]
+![image](https://github.com/user-attachments/assets/74e34e0e-2372-4fbb-a145-95552f3e046e)
 
 Pronto!
