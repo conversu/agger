@@ -12,17 +12,17 @@ Com o passo a passo abaixo você poderá configurar **Coberturas de AUTOMÓVEL**
 
 Ao acessar o botão com sua FOTO de PERFIL no canto superior direito, clique em **COBERTURAS**.
 
-![image](https://github.com/user-attachments/assets/a18210ea-2888-4280-be8c-714b25baf7af)
+![imagem passo 1](https://github.com/user-attachments/assets/a18210ea-2888-4280-be8c-714b25baf7af)
 
 ### 2) Configurando cobertura Padrão
 
 Na aba de **AUTOMÓVEL**, selecione a cobertura padrão.
 
-![image](https://github.com/user-attachments/assets/41486e6b-c0d0-4012-80cd-e1d496c79a10)
+![imagem passo 2](https://github.com/user-attachments/assets/41486e6b-c0d0-4012-80cd-e1d496c79a10)
 
 ### 3) Definindo Parâmetros
 
 Após definir a cobertura padrão preencha os parâmetros de cobertura e clique em **SALVAR**
 
-![image](https://github.com/user-attachments/assets/680ad9e2-5642-418e-8ebb-62b1658ac963)
-![image](https://github.com/user-attachments/assets/11e52af3-98da-4d25-92e2-70e8ff0e8615)
+![imagem passo 3.1](https://github.com/user-attachments/assets/680ad9e2-5642-418e-8ebb-62b1658ac963)
+![imagem passo 3.2](https://github.com/user-attachments/assets/11e52af3-98da-4d25-92e2-70e8ff0e8615)
