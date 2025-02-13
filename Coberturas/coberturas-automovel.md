@@ -24,5 +24,4 @@ Na aba de **AUTOMÓVEL**, selecione a cobertura padrão.
 
 Após definir a cobertura padrão preencha os parâmetros de cobertura e clique em **SALVAR**
 
-![imagem passo 3.1](https://github.com/user-attachments/assets/680ad9e2-5642-418e-8ebb-62b1658ac963)
-![imagem passo 3.2](https://github.com/user-attachments/assets/11e52af3-98da-4d25-92e2-70e8ff0e8615)
+![imagem passo 3](https://github.com/user-attachments/assets/680ad9e2-5642-418e-8ebb-62b1658ac963)
