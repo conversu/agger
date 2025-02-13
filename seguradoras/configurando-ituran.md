@@ -19,13 +19,13 @@ Ao acessar o botão com sua FOTO de PERFIL no canto superior direito, clique em 
 
 Na listagem de **Seguradoras**, clique na seguradora **ITURAN** para validar as credenciais
 
-![image]
+![image](https://github.com/user-attachments/assets/5bbf691a-1385-4aba-8cca-0f969bf66437)
 
 ### 3) Validando ACESSO.
 
 Após acessar a ITURAN, preencha as credenciais da Seguradora corretamente e clique em **"VALIDAR ACESSO"**
 
-![image]
+![image](https://github.com/user-attachments/assets/c13f9100-1d6b-4916-b0b9-9266d7f0b9c8)
 
 ### 4) Verificando acesso válido.
 
@@ -35,6 +35,6 @@ Após clicar em **"VALIDAR ACESSO"**, caso as credenciais estejam corretas, uma 
 
 Preencha o formulário de valores padrão antes e clique em **SALVAR**.
 
-![image]
+![image](https://github.com/user-attachments/assets/85bd8c69-de18-4748-bdfa-25c6437d3bad)
 
 Pronto!
