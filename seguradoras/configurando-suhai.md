@@ -19,13 +19,13 @@ Ao acessar o botão com sua FOTO de PERFIL no canto superior direito, clique em 
 
 Na listagem de **Seguradoras**, clique na seguradora **SUHAI** para validar as credenciais
 
-![image]
+![image](https://github.com/user-attachments/assets/be1f4d94-d7b5-47c7-8cab-e75e8ef8b42c)
 
 ### 3) Validando ACESSO.
 
 Após acessar a SUHAI, preencha as credenciais da Seguradora corretamente e clique em **"VALIDAR ACESSO"**
 
-![image]
+![image](https://github.com/user-attachments/assets/5a028ddb-5453-4891-a250-2e36568a1c40)
 
 ### 4) Verificando acesso válido.
 
@@ -35,6 +35,6 @@ Após clicar em **"VALIDAR ACESSO"**, caso as credenciais estejam corretas, uma 
 
 Preencha o formulário de valores padrão antes e clique em **SALVAR**.
 
-![image]
+![image](https://github.com/user-attachments/assets/4b07feb6-cb74-45ad-b2b7-7416c7ff5028)
 
 Pronto!
