@@ -19,13 +19,13 @@ Ao acessar o botão com sua FOTO de PERFIL no canto superior direito, clique em 
 
 Na listagem de **Seguradoras**, clique na seguradora **ALFA** para validar as credenciais
 
-![image]
+![image](https://github.com/user-attachments/assets/44c857e2-080d-49bf-8e7e-8a7e10cd1b33)
 
 ### 3) Validando ACESSO.
 
 Após acessar a ALFA, preencha as credenciais da Seguradora corretamente e clique em **"VALIDAR ACESSO"**
 
-![image]
+![image](https://github.com/user-attachments/assets/1e77dd0b-e786-4ef1-8610-1dda4b9d9b36)
 
 ### 4) Verificando acesso válido.
 
@@ -35,6 +35,7 @@ Após clicar em **"VALIDAR ACESSO"**, caso as credenciais estejam corretas, uma 
 
 Preencha o formulário de valores padrão antes e clique em **SALVAR**.
 
-![image]
+![image](https://github.com/user-attachments/assets/851ba0ef-a063-44b3-b5ee-9468466d7166)
 
 Pronto!
+
