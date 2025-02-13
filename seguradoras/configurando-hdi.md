@@ -19,13 +19,13 @@ Ao acessar o botão com sua FOTO de PERFIL no canto superior direito, clique em 
 
 Na listagem de **Seguradoras**, clique na seguradora **HDI** para validar as credenciais
 
-![image]
+![image](https://github.com/user-attachments/assets/4fb50123-7b89-4985-bc21-f292c330477c)
 
 ### 3) Validando ACESSO.
 
 Após acessar a HDI, preencha as credenciais da Seguradora corretamente e clique em **"VALIDAR ACESSO"**
 
-![image]
+![image](https://github.com/user-attachments/assets/af89935b-4793-4b83-934e-5e344cb42f08)
 
 ### 4) Verificando acesso válido.
 
@@ -35,6 +35,6 @@ Após clicar em **"VALIDAR ACESSO"**, caso as credenciais estejam corretas, uma 
 
 Preencha o formulário de valores padrão antes e clique em **SALVAR**.
 
-![image]
+![image](https://github.com/user-attachments/assets/e3cf8159-88a9-477f-b8e0-e91d269e55cb)
 
 Pronto!
