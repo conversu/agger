@@ -19,13 +19,13 @@ Ao acessar o botão com sua FOTO de PERFIL no canto superior direito, clique em 
 
 Na listagem de **Seguradoras**, clique na seguradora **SANCOR** para validar as credenciais
 
-![image]
+![image](https://github.com/user-attachments/assets/b97c1926-cc60-4fad-b718-4ebd1655a9c9)
 
 ### 3) Validando ACESSO.
 
 Após acessar a SANCOR, preencha as credenciais da Seguradora corretamente e clique em **"VALIDAR ACESSO"**
 
-![image]
+![image](https://github.com/user-attachments/assets/26b0fa79-cf4c-4979-8a94-8b50d5d93bc8)
 
 ### 4) Verificando acesso válido.
 
@@ -35,6 +35,6 @@ Após clicar em **"VALIDAR ACESSO"**, caso as credenciais estejam corretas, uma 
 
 Preencha o formulário de valores padrão antes e clique em **SALVAR**.
 
-![image]
+![image](https://github.com/user-attachments/assets/50a595fd-7160-4ec6-804c-65767c6c7402)
 
 Pronto!
