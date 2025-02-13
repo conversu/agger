@@ -19,13 +19,13 @@ Ao acessar o botão com sua FOTO de PERFIL no canto superior direito, clique em 
 
 Na listagem de **Seguradoras**, clique na seguradora **BERKLEY** para validar as credenciais
 
-![image]
+![image](https://github.com/user-attachments/assets/0958e097-4fa9-4555-9f09-9ddb110c2d9a)
 
 ### 3) Validando ACESSO.
 
 Após acessar a BERKLEY, preencha as credenciais da Seguradora corretamente e clique em **"VALIDAR ACESSO"**
 
-![image]
+![image](https://github.com/user-attachments/assets/c42e04b0-4b2a-4883-bad0-06ee74e6f5b5)
 
 ### 4) Verificando acesso válido.
 
@@ -35,6 +35,6 @@ Após clicar em **"VALIDAR ACESSO"**, caso as credenciais estejam corretas, uma 
 
 Preencha o formulário de valores padrão antes e clique em **SALVAR**.
 
-![image]
+![image](https://github.com/user-attachments/assets/1c2439b4-a0e2-444b-86d8-54c48f4c3e92)
 
 Pronto!
