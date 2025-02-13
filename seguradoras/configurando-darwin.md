@@ -19,13 +19,13 @@ Ao acessar o botão com sua FOTO de PERFIL no canto superior direito, clique em 
 
 Na listagem de **Seguradoras**, clique na seguradora **DARWIN** para validar as credenciais
 
-![image]
+![image](https://github.com/user-attachments/assets/53a82b2f-8c38-4bb0-951c-15e3a44398fc)
 
 ### 3) Validando ACESSO.
 
 Após acessar a DARWIN, preencha as credenciais da Seguradora corretamente e clique em **"VALIDAR ACESSO"**
 
-![image]
+![image](https://github.com/user-attachments/assets/806fd036-3b81-424c-b0ab-41d7532fabac)
 
 ### 4) Verificando acesso válido.
 
@@ -35,6 +35,6 @@ Após clicar em **"VALIDAR ACESSO"**, caso as credenciais estejam corretas, uma 
 
 Preencha o formulário de valores padrão antes e clique em **SALVAR**.
 
-![image]
+![image](https://github.com/user-attachments/assets/fca4fc20-9cfa-43c4-9e40-bd219bb009b7)
 
 Pronto!
