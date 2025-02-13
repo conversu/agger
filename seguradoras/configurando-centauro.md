@@ -19,13 +19,13 @@ Ao acessar o botão com sua FOTO de PERFIL no canto superior direito, clique em 
 
 Na listagem de **Seguradoras**, clique na seguradora **CENTAURO** para validar as credenciais
 
-![image]
+![image](https://github.com/user-attachments/assets/82e04287-b867-4586-b1d7-82c1d7089f89)
 
 ### 3) Validando ACESSO.
 
 Após acessar a CENTAURO, preencha as credenciais da Seguradora corretamente e clique em **"VALIDAR ACESSO"**
 
-![image]
+![image](https://github.com/user-attachments/assets/be4a50ba-7493-46fb-ae6e-0a3ae78c42f7)
 
 ### 4) Verificando acesso válido.
 
@@ -35,6 +35,6 @@ Após clicar em **"VALIDAR ACESSO"**, caso as credenciais estejam corretas, uma 
 
 Preencha o formulário de valores padrão antes e clique em **SALVAR**.
 
-![image]
+![image](https://github.com/user-attachments/assets/923ce8cd-5f5a-468e-905c-46636a88755f)
 
 Pronto!
