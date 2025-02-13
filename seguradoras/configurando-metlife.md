@@ -19,13 +19,13 @@ Ao acessar o botão com sua FOTO de PERFIL no canto superior direito, clique em 
 
 Na listagem de **Seguradoras**, clique na seguradora **METLIFE** para validar as credenciais
 
-![image]
+![image](https://github.com/user-attachments/assets/ed09065d-5dcf-4754-8d6e-923a0532b8c5)
 
 ### 3) Validando ACESSO.
 
 Após acessar a METLIFE, preencha as credenciais da Seguradora corretamente e clique em **"VALIDAR ACESSO"**
 
-![image]
+![image](https://github.com/user-attachments/assets/277ebd13-dab4-4bc3-a0f1-fb017712681b)
 
 ### 4) Verificando acesso válido.
 
@@ -35,6 +35,6 @@ Após clicar em **"VALIDAR ACESSO"**, caso as credenciais estejam corretas, uma 
 
 Preencha o formulário de valores padrão antes e clique em **SALVAR**.
 
-![image]
+![image](https://github.com/user-attachments/assets/d312e153-b179-4594-9c09-fe3590fdb619)
 
 Pronto!
