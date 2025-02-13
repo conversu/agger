@@ -19,13 +19,13 @@ Ao acessar o botão com sua FOTO de PERFIL no canto superior direito, clique em 
 
 Na listagem de **Seguradoras**, clique na seguradora **CAPEMISA** para validar as credenciais
 
-![image]
+![image](https://github.com/user-attachments/assets/077c05b1-5ca4-4116-9f1d-2b24f58b67c9)
 
 ### 3) Validando ACESSO.
 
 Após acessar a CAPEMISA, preencha as credenciais da Seguradora corretamente e clique em **"VALIDAR ACESSO"**
 
-![image]
+![image](https://github.com/user-attachments/assets/e9695235-e65a-4895-8cac-0411b89f7de6)
 
 ### 4) Verificando acesso válido.
 
@@ -35,6 +35,6 @@ Após clicar em **"VALIDAR ACESSO"**, caso as credenciais estejam corretas, uma 
 
 Preencha o formulário de valores padrão antes e clique em **SALVAR**.
 
-![image]
+![image](https://github.com/user-attachments/assets/f861723e-0dc4-4184-af2f-aae9df185b1a)
 
 Pronto!
