@@ -19,13 +19,13 @@ Ao acessar o botão com sua FOTO de PERFIL no canto superior direito, clique em 
 
 Na listagem de **Seguradoras**, clique na seguradora **MAPFRE** para validar as credenciais
 
-![image]
+![image](https://github.com/user-attachments/assets/02277b50-8602-413b-a657-e0234bcf0362)
 
 ### 3) Validando ACESSO.
 
 Após acessar a MAPFRE, preencha as credenciais da Seguradora corretamente e clique em **"VALIDAR ACESSO"**
 
-![image]
+![image](https://github.com/user-attachments/assets/49d2cc61-1ee2-45ab-a95b-661063d7d31f)
 
 ### 4) Verificando acesso válido.
 
@@ -35,6 +35,6 @@ Após clicar em **"VALIDAR ACESSO"**, caso as credenciais estejam corretas, uma 
 
 Preencha o formulário de valores padrão antes e clique em **SALVAR**.
 
-![image]
+![image](https://github.com/user-attachments/assets/72dbe377-0ba1-46ab-9412-1cfe73febd07)
 
 Pronto!
