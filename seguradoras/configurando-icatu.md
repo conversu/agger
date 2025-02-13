@@ -19,13 +19,13 @@ Ao acessar o botão com sua FOTO de PERFIL no canto superior direito, clique em 
 
 Na listagem de **Seguradoras**, clique na seguradora **ICATU** para validar as credenciais
 
-![image]
+![image](https://github.com/user-attachments/assets/cadaf789-e34c-4c52-86a9-240d135245ac)
 
 ### 3) Validando ACESSO.
 
 Após acessar a ICATU, preencha as credenciais da Seguradora corretamente e clique em **"VALIDAR ACESSO"**
 
-![image]
+![image](https://github.com/user-attachments/assets/2b3c67bc-8f28-4fd8-983e-87fceb745632)
 
 ### 4) Verificando acesso válido.
 
@@ -35,6 +35,6 @@ Após clicar em **"VALIDAR ACESSO"**, caso as credenciais estejam corretas, uma 
 
 Preencha o formulário de valores padrão antes e clique em **SALVAR**.
 
-![image]
+![image](https://github.com/user-attachments/assets/b7f6001e-4632-4ab2-a939-16b1c431b717)
 
 Pronto!
