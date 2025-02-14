@@ -19,13 +19,13 @@ Ao acessar o botão com sua FOTO de PERFIL no canto superior direito, clique em 
 
 Na listagem de **Seguradoras**, clique na seguradora **YELUM** para validar as credenciais
 
-![image]
+![image](https://github.com/user-attachments/assets/1cea4539-062c-4589-8957-da2e1376e199)
 
 ### 3) Validando ACESSO.
 
 Após acessar a YELUM, preencha as credenciais da Seguradora corretamente e clique em **"VALIDAR ACESSO"**
 
-![image]
+![image](https://github.com/user-attachments/assets/ec0e2299-27f0-4d2f-8e8d-79bcb1a9cc38)
 
 ### 4) Verificando acesso válido.
 
@@ -35,6 +35,6 @@ Após clicar em **"VALIDAR ACESSO"**, caso as credenciais estejam corretas, uma 
 
 Preencha o formulário de valores padrão antes e clique em **SALVAR**.
 
-![image]
+![image](https://github.com/user-attachments/assets/6132b154-18be-4bfd-87ce-32df8afcd785)
 
 Pronto!
